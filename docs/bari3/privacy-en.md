@@ -14,7 +14,7 @@ This policy explains how the app "Bari3" (the "App") handles your information.
 - Your sound on/off setting
 - Your language setting (Japanese / English)
 
-This information is stored only on your device and is never sent to our servers.
+This information is stored on your device and is not sent to our servers. However, the items listed under "Information sent to an external service" below (such as scores, play counts, launch counts, sound on/off changes, and the language you are using) are also sent to PostHog, only if you choose "Sure, I'll share" when you first open the App.
 
 ### Information sent to an external service
 
