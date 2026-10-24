@@ -49,7 +49,7 @@ We do not use the information for any other purpose.
 ## 3. Retention, Deletion, and Opting Out
 - Data on your device (profiles, tasks, and settings) is deleted when you delete the App.
 - Data sent to PostHog:
-  - **Retention**: Determined by PostHog's plan. Currently, data is kept for one year after it is sent (this may change if the plan changes).
+  - **Retention**: Determined by PostHog's plan. Currently, data is kept for at least one year after it is sent, and may be deleted after that (this may change if the plan changes).
   - **Opting out (withdrawing consent)**: You can turn "Share usage data" OFF at any time in Parent Settings (press and hold the icon at the top right for 3 seconds), and turn it back ON. Once it is OFF, nothing more is sent, and the anonymous identifier stored on the device is cleared.
   - **Deletion**: Data is linked only to an anonymous identifier and cannot identify anyone by name or email address. For this reason, we usually cannot single out and delete one person's data. If you would like your data deleted, please contact us at the address below. Because we cannot see your device's identifier, what we can do is limited.
 - Data held by external services is also subject to each service's own privacy policy.
