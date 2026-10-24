@@ -21,7 +21,8 @@ This information stays on your device and is not sent to our servers or any exte
 **PostHog (usage analytics) — only if a parent chooses "Yes, share"**  
 To improve the App, we use PostHog to collect usage data. **Data is sent only if a parent chooses "Yes, share" on the screen shown when the App is first opened.** If you choose "No thanks", or until you choose, nothing is sent. The App works fully either way. The information sent is:
 - App launches, moving the App to the background, installs, and updates
-- Actions taken by parents (opening Parent Settings, setting a departure time, adding a child's profile, opening the purchase screen, completing a purchase)
+- Actions taken by parents (opening Parent Settings, setting a departure time, adding a child's profile, opening the purchase screen, completing a purchase, a purchase failing)
+- The type of error when a purchase fails (only the name of the error type; we do not send the error message or any payment information)
 - Details of app errors
 - The language the App is displayed in (Japanese / English)
 - Information that PostHog adds automatically, such as device type, OS version, and app version
